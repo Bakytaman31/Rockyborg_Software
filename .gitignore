@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug
+*.log
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Matplotlib plots cache
+.matplotlib/
+
+# VSCode
+.vscode/
+
+# Python-specific
+*.egg-info/
+dist/
+build/
+
+# Pytest cache
+.pytest_cache/
+
+# Personal config files
+*.bak
+*.old
+
+# Ubuntu hidden file stuff
+~$*
+
+# Project specific
+*.jpg
+*.png
+*.mp4
+*.avi
+*.mkv
+
+# If you're using Trello export or debug exports
+export.json
